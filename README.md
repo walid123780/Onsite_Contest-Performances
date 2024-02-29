@@ -8,6 +8,6 @@
 | [ICPC Dhaka Regional 2022](https://algo.codemarshal.org/contests/dhaka-22-main/standings) | UAP_Amogus | 111 | Team | National |
 | [SEC IUPC 2022](https://toph.co/c/sec-inter-university-junior-2022/standings) | UAP_Team1 | 53 | Team | National |
 | [UAP IUPC 1.0 2024](https://toph.co/c/uap-inter-university-collaborative-1-0-senior/standings) | Uap_Amogus | 14 | Team | Invitational |
-| [UAP IUPC 2022](https://toph.co/c/uap-intra-university-2022-junior/standings) | uap_ice_breakers | 2 | Team | INTRA |
+| [UAP IUPC 2022](https://toph.co/c/uap-intra-university-2022-junior/standings) | uap_ice_breakers | 2 | Team | Intra |
 
 
