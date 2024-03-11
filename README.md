@@ -1,6 +1,7 @@
 # Onsite Contest Performances
 | Contest | Username | Rank | Type | Scope
 | -- | -------- | ----------- | ---- | ---- |
+| [NCPC 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | Uap_Amogus | 99 | Team | National |
 | [SUST CARNIVAL: IUPC 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | Uap_Amogus | 53 | Team | National |
 | [CUET CodeStorm : IUPC 2024](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings) | Uap_Amogus | 84 | Team | National |
 | [ICPC Dhaka Regional 2023](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings) | UAP_Amogus | 142 | Team | National |
